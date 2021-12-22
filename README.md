@@ -8,4 +8,4 @@
 npm start
 ```
 ----
-## <center>Happy OpenSourcing! 🤗</center>
+## <p align="center">Happy OpenSourcing! 🤗</p>
